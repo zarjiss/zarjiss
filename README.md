@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @zarjiss
-- 👀 I’m interested in C programing and JAVA
+- 👀 I’m interested in C , C++ and JAVA language.
 - 🌱 I’m currently learning JAVA
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
